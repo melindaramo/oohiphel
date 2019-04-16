@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomieshoh.janakitech.com/sitemap.xml
